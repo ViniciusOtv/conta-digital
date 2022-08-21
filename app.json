@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "conta-digital",
+    "slug": "conta-digital",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "conta-digital"
+}
